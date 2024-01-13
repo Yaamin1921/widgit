@@ -1,0 +1,8 @@
+this is featuer file 
+a
+b
+c
+for some featuer
+1
+2
+3
